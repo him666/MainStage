@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Héctor Marín Aréchiga
 
-You can use the [editor on GitHub](https://github.com/him666/MainStage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Ruby on Rails / ReactJs Dev
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Universidad Autónma  Metropolitana Unidad  Azcapotzalco
+Ingenieria en Computación
+Area de Algoritmos e Inteligencia Artificial
 
 ```markdown
 Syntax highlighted code block
