@@ -11,5 +11,5 @@ Algorithms and A.I. Area
 ## Languages
 - Spanish (native)
 - English (advanced)
-- German (begginner)
+- German (beginner)
 
