@@ -6,7 +6,7 @@ Ruby on Rails / ReactJs Dev
 
 Universidad Autónoma  Metropolitana Unidad  Azcapotzalco
 Computing Engineering
-Algorithms and A.I. Area 
+A.I. and Algorithms Area 
 
 ## Languages
 - Spanish (native)
