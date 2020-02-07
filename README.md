@@ -1,5 +1,5 @@
 ## Héctor Marín Aréchiga
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/55586294_10214100625620173_5844232750663467008_n.jpg)
 Ruby on Rails / ReactJs Dev
 
 ### Profile
