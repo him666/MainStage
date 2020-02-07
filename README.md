@@ -1,5 +1,5 @@
 ## Héctor Marín Aréchiga
-![Octocat](https://raw.githubusercontent.com/him666/Resume/master/mememe.jpg)
+![Octocat](https://raw.githubusercontent.com/him666/Resume/master/mememe.png)
 Ruby on Rails / ReactJs Dev
 
 ### Profile
