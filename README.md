@@ -1,5 +1,5 @@
 ## Héctor Marín Aréchiga
-![Octocat](https://raw.githubusercontent.com/him666/Resume/master/mememe_small.jpg)
+![Octocat](https://raw.githubusercontent.com/him666/Resume/master/mememe_small.jpeg)
 Ruby on Rails / ReactJs Dev
 
 ### Profile
@@ -23,16 +23,11 @@ Ruby on Rails / ReactJs Dev
 #### Full Stack Ruby on Rails Developer
 SND (Eureka platform UCSF) July 2019 – Feb 2020
 
-In this position I participated in the creation of new research studies, maintenance, and
-
-improvement of the Eureka platform built on Ruby on Rails 5.2 and hosted in AWS using docker containers for deployment.
+In this position I participated in the creation of new research studies, maintenance, and improvement of the Eureka platform built on Ruby on Rails 5.2 and hosted in AWS using docker containers for deployment.
 
 * Upgrades and maintenance of Ruby on Rails app.
-
 * Created new studies on the app using Rake tasks and scrpts
-
 * Developed using design patterns such as DRY, Thin Model Thin Controller, KISS.
-
 * Team working, code reviewing, use of Scrum Methodology. For version control, used Git and github.com.
 
 #### Full Stack JS Developer
@@ -41,13 +36,9 @@ iTexico (Real Synch) Oct 2017 – July 2019
 In this position I participated in the architecture, design and development as a Full Stack Developer, helped in the creation of the Real Synch Application from Scratch, and also doing some maintenance to an old version of the same application, built in Ruby on Rails 4, right now the application is ran using Jitterbit for the Synch pipeline operations and Nodejs with ReactJs on the frontend Side of the app.
 
 * Upgrade and maintenance of Ruby on Rails app.
-
 * Developed the app from scratch with help of a team consisting of 6 persons using Visual Studio Code as code Editor, Jitterbit Harmony Technology, Nodejs with React for the frontend, Postgresql for the Databases along with Salesforce for Leads management and Heroku as our cloud service.
-
 * Worked mainly with Asynchronous programming (JS), ReactJs States machine pattern for the frontend and ETL technology called Jitterbit with the Map Reduce Pattern.
-
 * Developed using design patterns such as DRY, Thin Model Thin Controller, KISS, Tell don’t Ask, Map – Reduce.
-
 * Team working, code reviewing , use of Scrum Methodology. For version control, used Git and github.com
 
 #### FullStack JS developer
@@ -55,9 +46,7 @@ Interware (Monte de Piedad) Sept 2017 - Oct 2017
 
 Integrated Backend Services in Java with Frontend in ReactJs for Nacional Monte de Piedad's Grantees Platform in order to do this process automatic and easier, since Nacional Monte de Piedad does it in paper. 
 * Bug fixes for ReactJs Components and New Components 
-
 * Consumed through Redux a Java API to save all movements from the Associations in the Grantees Iniciative 
-
 * Programmed using visual studio code and NodeJs with React Js. 
 * Used Lint, Bootstrap, ReactJs, Immutable, and Compass Libraries. 
 * Used Scrum methodologies and Git Version Control.
