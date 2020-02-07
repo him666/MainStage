@@ -1,6 +1,6 @@
 ## Héctor Marín Aréchiga
 ![Octocat](https://raw.githubusercontent.com/him666/Resume/master/mememe.png)
-Ruby on Rails / ReactJs Dev
+- Ruby on Rails / ReactJs Dev
 
 ### Profile
 - Full Stack Developer with 5 years of experience
