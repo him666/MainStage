@@ -98,7 +98,7 @@ Created and Designed from Scratch a WebApp to Create and Display Dynamic Splash 
 * Set up Cisco Meraki Antennas and Hotspots Brand Antennas to Work with the application
 
 
-### Education
+## Education
 
 Universidad Autónoma  Metropolitana Unidad  Azcapotzalco
 Computing Engineering
