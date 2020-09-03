@@ -20,6 +20,16 @@
 * 5 years of experience using MVC and MVVM
 
 ### Work History
+#### Full Stack NodeJs Developer
+SND (Cloud Caller platform) April 2020 – September 2020
+
+Currently working as a Tech Lead creating a Video Conference application using a Proof of Concept provided by Twilio inc.
+
+* Added Backend endpoints for Authentication, Room Creation, User Creation.
+* Created new and Modified existing interfaces using Typescript, React Hooks and React Context.
+* Created Deployment Pipeline from Gitlab to Heroku.
+* Created Dabase Structure and Schema
+
 #### Full Stack Ruby on Rails Developer
 SND (Eureka platform UCSF) July 2019 – Feb 2020
 
