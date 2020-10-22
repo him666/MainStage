@@ -21,7 +21,7 @@
 
 ### Work History
 #### Full Stack NodeJs Developer
-SND (Cloud Caller platform) April 2020 – September 2020
+SND (Cloud Caller platform) April 2020 – Currently
 
 Currently working as a Tech Lead creating a Video Conference application using a Proof of Concept provided by Twilio inc.
 
