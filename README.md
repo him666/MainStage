@@ -3,7 +3,7 @@
 ## Ruby on Rails / ReactJs Dev
 
 ### Profile
-- Full Stack Developer with 5 years of experience
+- Full Stack Developer with 6 years of experience
 - Bachelors in Computing Engineering 
 - Strong Technologies: Ruby on rails, NodeJS, ExpressJS, ReactJs, HTML5, CSS3, Bootstrap4, Cassandra CQL, MYSQL, PSQL, Mongo DB.
 - Cloud Services: Heroku, AWS.
