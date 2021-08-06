@@ -9,15 +9,13 @@
 - Cloud Services: Heroku, AWS.
 
 ### Experience
-* 5 years of experience Working with Ruby on Rails
+* 6 years of experience Working with Ruby on Rails
 
 * 5 years of Experience working with JavaScript
 
-* 5 years of experience with MYSQL and PSQL
+* 6 years of experience with MYSQL and PSQL
 
-* 5 years of experience with HTML, CSS
-
-* 5 years of experience using MVC and MVVM
+* 6 years of experience with HTML, CSS
 
 ### Work History
 #### Full Stack NodeJs Developer
