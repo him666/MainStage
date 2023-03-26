@@ -9,7 +9,9 @@
 - Cloud Services: Heroku, AWS.
 
 ### Experience
-* 6 years of experience Working with Ruby on Rails
+* 7 years of experience Working with Ruby on Rails
+
+* 5 years of Experience Working with ReactJS
 
 * 5 years of Experience working with JavaScript
 
@@ -19,9 +21,9 @@
 
 ### Work History
 #### Full Stack NodeJs Developer
-SND (Cloud Caller platform) April 2020 – Currently
+SND (Cloud Caller platform) April 2020 – September 2022
 
-Currently working as a Tech Lead creating a Video Conference application using a Proof of Concept provided by Twilio inc.
+Worked as a Tech Lead creating a Video Conference application using a Proof of Concept provided by Twilio inc.
 
 * Added Backend endpoints for Authentication, Room Creation, User Creation.
 * Created new and Modified existing interfaces using Typescript, React Hooks and React Context.
