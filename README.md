@@ -3,13 +3,14 @@
 ## Ruby on Rails / ReactJs Dev
 
 ### Profile
-- Full Stack Developer with 6 years of experience
+- Full Stack Developer with 8 years of experience
 - Bachelors in Computing Engineering 
 - Strong Technologies: Ruby on rails, NodeJS, ExpressJS, ReactJs, HTML5, CSS3, Bootstrap4, Cassandra CQL, MYSQL, PSQL, Mongo DB.
+- Tooling: Sentry, New Relic, Datadog, Lens, Docker
 - Cloud Services: Heroku, AWS.
 
 ### Experience
-* 7 years of experience Working with Ruby on Rails
+* 8 years of experience Working with Ruby on Rails
 
 * 5 years of Experience Working with ReactJS
 
@@ -21,7 +22,18 @@
 
 ### Work History
 #### Full Stack NodeJs Developer
-SND (Cloud Caller platform) April 2020 – September 2022
+Kutir Tech (Mastermind) February 2021 - August 2023
+
+Worked as a Senior Ruby on Rails / Nodejs / ReactJs Software Developer
+
+* Supported Legacy Ruby on Rails System until it's end of life (migrated to NodeJS)
+* Created and modified Queries and Mutations using Graphql
+* Attended and fixed Critical Production Events
+* Worked on FE using ReactJs adding new components
+* Worked on adding features and solving bugs to new 4 Microservices the RoR app was divided into
+
+#### Full Stack NodeJs Developer
+SND (Cloud Caller platform) April 2020 – February 2021
 
 Worked as a Tech Lead creating a Video Conference application using a Proof of Concept provided by Twilio inc.
 
