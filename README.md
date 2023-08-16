@@ -24,7 +24,7 @@
 #### Full Stack NodeJs Developer
 Kutir Tech (Mastermind) February 2021 - August 2023
 
-Worked as a Senior Ruby on Rails / Nodejs / ReactJs Software Developer
+Worked as a Senior Ruby on Rails / Nodejs / ReactJs Software Developer on a Freight Project
 
 * Supported Legacy Ruby on Rails System until it's end of life (migrated to NodeJS)
 * Created and modified Queries and Mutations using Graphql
