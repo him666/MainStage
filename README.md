@@ -1,6 +1,8 @@
 # Héctor Marín Aréchiga
 ![Octocat](https://raw.githubusercontent.com/him666/Resume/master/mememe.png)
 ## Ruby on Rails / ReactJs Dev
+Phone: (628)-313-3398
+email: hectormarin5@hotmail.com
 
 ### Profile
 - Full Stack Developer with 8 years of experience
