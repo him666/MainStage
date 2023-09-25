@@ -125,7 +125,7 @@ Created and Designed from Scratch a WebApp to Create and Display Dynamic Splash 
 ## Education
 
 Universidad Autónoma  Metropolitana Unidad  Azcapotzalco
-Computing Engineering (Completion Date April - 2017)
+Computing Engineering (Completion Date: April - 2017)
 * A.I. and Algorithms Area 
 
 ## Languages
