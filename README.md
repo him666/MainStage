@@ -1,13 +1,13 @@
-# Héctor Marín Aréchiga
+# Héctor I. Marín Aréchiga
 ![Octocat](https://raw.githubusercontent.com/him666/Resume/master/mememe.png)
-## Ruby on Rails / ReactJs Dev
+## Lead Ruby on Rails / NodeJs / ReactJs Dev
 * Phone: (628)-313-3398
 * Email: hectormarin5@hotmail.com
 
 ### Profile
 - Full Stack Developer with 8 years of experience
 - Bachelors in Computing Engineering 
-- Strong Technologies: Ruby on rails, NodeJS, ExpressJS, ReactJs, HTML5, CSS3, Bootstrap4, Cassandra CQL, MYSQL, PSQL, Mongo DB.
+- Strong Technologies: Ruby on Rails, NodeJS, ExpressJS, ReactJs, HTML5, CSS3, Bootstrap4, Cassandra CQL, MYSQL, PSQL, Mongo DB.
 - Tooling: Sentry, New Relic, Datadog, Lens, Docker
 - Cloud Services: Heroku, AWS.
 
@@ -23,10 +23,10 @@
 * 6 years of experience with HTML, CSS
 
 ### Work History
-#### Full Stack NodeJs Developer
+#### Lead Full Stack NodeJs Developer
 Kutir Tech (Mastermind) February 2021 - August 2023
 
-Worked as a Senior Ruby on Rails / Nodejs / ReactJs Software Developer on a Freight Project
+Worked as a Lead Ruby on Rails / Nodejs / ReactJs Software Developer on a Freight Project
 
 * Supported Legacy Ruby on Rails System until it's end of life (migrated to NodeJS)
 * Created and modified Queries and Mutations using Graphql
@@ -34,7 +34,7 @@ Worked as a Senior Ruby on Rails / Nodejs / ReactJs Software Developer on a Frei
 * Worked on FE using ReactJs adding new components
 * Worked on adding features and solving bugs to new 4 Microservices the RoR app was divided into
 
-#### Full Stack NodeJs Developer
+#### Lead Full Stack NodeJs Developer
 SND (Cloud Caller platform) April 2020 – February 2021
 
 Worked as a Tech Lead creating a Video Conference application using a Proof of Concept provided by Twilio inc.
@@ -54,14 +54,14 @@ In this position I participated in the creation of new research studies, mainten
 * Developed using design patterns such as DRY, Thin Model Thin Controller, KISS.
 * Team working, code reviewing, use of Scrum Methodology. For version control, used Git and github.com.
 
-#### Full Stack JS Developer
+#### Co-Lead Full Stack JS Developer
 iTexico (Real Synch) Oct 2017 – July 2019
 
-In this position I participated in the architecture, design and development as a Full Stack Developer, helped in the creation of the Real Synch Application from Scratch, and also doing some maintenance to an old version of the same application, built in Ruby on Rails 4, right now the application is ran using Jitterbit for the Synch pipeline operations and Nodejs with ReactJs on the frontend Side of the app.
+In this position I participated in the architecture, design and development as a Co-Lead Full Stack Developer, helped in the creation of the Real Synch Application from Scratch, and also doing some maintenance to an old version of the same application, built in Ruby on Rails 4, right now the application is ran using Jitterbit ETL for the Synch pipeline operations and Nodejs with ReactJs on the frontend Side of the app.
 
 * Upgrade and maintenance of Ruby on Rails app.
 * Developed the app from scratch with help of a team consisting of 6 persons using Visual Studio Code as code Editor, Jitterbit Harmony Technology, Nodejs with React for the frontend, Postgresql for the Databases along with Salesforce for Leads management and Heroku as our cloud service.
-* Worked mainly with Asynchronous programming (JS), ReactJs States machine pattern for the frontend and ETL technology called Jitterbit with the Map Reduce Pattern.
+* Worked mainly with Asynchronous programming (JS), ReactJs States machine pattern for the frontend and ETL technology called Jitterbit using the Map Reduce Pattern.
 * Developed using design patterns such as DRY, Thin Model Thin Controller, KISS, Tell don’t Ask, Map – Reduce.
 * Team working, code reviewing , use of Scrum Methodology. For version control, used Git and github.com
 
