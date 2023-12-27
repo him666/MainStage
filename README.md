@@ -23,7 +23,7 @@
 * 6 years of experience with HTML, CSS
 
 ### Work History
-#### Full Stack NodeJs Developer
+#### Full Stack Developer
 Kutir Tech (Mastermind) February 2021 - August 2023
 
 Worked as a Senior Ruby on Rails / Nodejs / ReactJs Software Developer on a Freight Project
